@@ -1,4 +1,4 @@
-Distamce-Metric devloped using both Python & Javascript!
+Distance-Metrics developed using both Python & Javascript!
 
 We will take a close look at both Euclidean & Manhatten distance metrics which are commonly utilized in machine learning models such as K-Means-Clustering algoririthim and other. We will build both of these metrics from beginning to end using Python & Javascript.
 
